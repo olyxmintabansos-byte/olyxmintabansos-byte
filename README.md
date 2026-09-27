@@ -1,5 +1,19 @@
 <p align="center">
-  <img src="./assets/olyx-banner.jpg" alt="Olyx — Chief Systems Architect & Master Full-Stack Engineer" width="100%" style="border-radius: 14px;" />
+  <img src="./assets/typography-banner.svg" alt="OLYX — Chief Systems Architect & Master Full-Stack Engineer" width="100%" />
+</p>
+
+```text
+  ██████╗ ██╗  ██╗   ██╗██╗  ██╗
+ ██╔═══██╗██║  ╚██╗ ██╔╝╚██╗██╔╝
+ ██║   ██║██║   ╚████╔╝  ╚███╔╝ 
+ ██║   ██║██║    ╚██╔╝   ██╔██╗ 
+ ╚██████╔╝███████╗██║   ██╔╝ ██╗
+  ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝
+ ⚡ PRINCIPAL SYSTEMS ARCHITECT • LOCAL-FIRST SPECIALIST ⚡
+```
+
+<p align="center">
+  <img src="./assets/olyx-banner.jpg" alt="Olyx — Cyberpunk Command Center" width="100%" style="border-radius: 14px;" />
 </p>
 
 <p align="center">
