@@ -12,9 +12,6 @@
  ⚡ PRINCIPAL SYSTEMS ARCHITECT • LOCAL-FIRST SPECIALIST ⚡
 ```
 
-<p align="center">
-  <img src="./assets/olyx-banner.jpg" alt="Olyx — Cyberpunk Command Center" width="100%" style="border-radius: 14px;" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Olyx+%F0%9F%91%8B;Full-Stack+Systems+Engineer;Local-First+%26+Client-Side+Architect;Game+Economy+%26+Simulation+Specialist;Building+Enterprise+Zero-Backend+Apps" alt="Typing SVG" />
